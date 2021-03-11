@@ -10,3 +10,4 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - h5py
