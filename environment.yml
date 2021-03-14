@@ -11,5 +11,4 @@ dependencies:
     - pandas
     - thinc
     - h5py
-    -tensorflow
-    
+    - tensorflow
